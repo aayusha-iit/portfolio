@@ -1,7 +1,7 @@
 # Data Scientist
 
 # Education
-M.Tech. in Chemical Engineering (IIT BHU, Varanasi)
+M.Tech. in Chemical Engineering (IIT BHU, Varanasi)<br>
 B.E. in Petrochemical Engineering (Pune University) 
 
 # Work Experience
